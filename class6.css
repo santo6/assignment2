@@ -5,9 +5,10 @@
 	clear:both;
 }
 .nav2{
-	color:#ccc;
-	background-color: #002575;
-	height:40px;
+	padding-top:10px;
+	color:#ffffff;
+	background-color:#002575;
+	height:50px;
 }
 .nav3{
 background-color:#ccc;	
@@ -27,53 +28,61 @@ padding-bottom: 19px;
 	width:20px;
 	height:20px;	
 }
-.hi{
-width:20px;
-height:20px;	
-margin-left:64px;	
+.orkid2{
+	width:35px;
+	height:30px;
+
 }
-.nazim{
-float:left;
-clear:both;
-margin-top: 18px;
+.img{
+width:40px;
+height:40px;
+float:left;	
+padding-left:10px;
 }
-.virus{
-width:60px;
-height:60px;	
-	
+.imgur{
+margin-top:6px;
+float:right;	
+padding-left:10px;	
+}
+.dag{
+margin-top:px;
+width:100%;
+height:2px;
+float:right;
+background-color:silver;	
+}
+.n{
+margin-top:40px;
+}
+.m{
+margin-top:25px;	
+}
+.black{
+background-color:#202020;	
+color:white;
+padding-top:50px;
+padding-bottom:50px;
+}
+.shorboshesh{
+margin-top:30px;
+padding-top:50px;
+padding-bottom:100px;	
+}
+.ficar{
+margin-top:40px;	
+}
+.galary{
+background-color:#202020;	
+color:white;
+padding-top:50px;
+padding-bottom:50px;	
+}
+.bishesh{
+margin-left:18px;
 }
 .bai{
-width:100%;	
-}
-.protibedhon{
-margin-top:45px;
-}
-.rr{
-width:200px;
-height:100px;	
+	display:block;
 	
 }
-.kaku{
-margin-top:45px;
-padding-top:30px;	
-}
-.fafa{
-width:300px;
-height:300px;
-}
-h3{
-color:white;
-}
-.babu{
-background-color: #202020;
-height:350px;	
-}
-.kk{
-width:150px;
-height:150px;	
-margin:30px;
-}
-.ll{
-color:white
-	
-}
+
+
